@@ -1,0 +1,41 @@
+name	Unique Positions	Total Tags
+genome	10316853	10409389.0
+fragmentLengthEstimate=62		
+peakSizeEstimate=141		
+tagsPerBP=0.003843		
+averageTagsPerPosition=1.009		
+medianTagsPerPosition=1		
+averageTagLength=36.000		
+gsizeEstimate=2708726374		
+averageFragmentGCcontent=-1.000		
+chr1	731797	736648.0
+chr1_random	1798	1829.0
+chr2	798175	810656.0
+chr3	548767	552502.0
+chr4	659161	663760.0
+chr4_random	316	322.0
+chr5	667415	672060.0
+chr6	582924	586990.0
+chr7	630124	634805.0
+chr8	564953	568934.0
+chr8_random	211	211.0
+chr9	569352	576089.0
+chr9_random	1441	1466.0
+chr10	515949	519506.0
+chr11	666373	672177.0
+chr12	449454	452595.0
+chr13	457654	460766.0
+chr13_random	182	183.0
+chr14	432851	435717.0
+chr15	442008	445186.0
+chr16	363410	365940.0
+chr17	414354	419030.0
+chr18	348383	350795.0
+chr19	281183	283219.0
+chrX	174145	175257.0
+chrX_random	782	801.0
+chrY	1293	1334.0
+chrY_random	859	862.0
+chrM	6401	12704.0
+chrUn_random	5138	7045.0
+cmd=makeTagDirectory /home/q5gong/CSE185FinalProject/Figure_4e&f/data/tagdirs/input /home/q5gong/CSE185FinalProject/Figure_4e&f/data/GSM846874_AlnInput.txt		

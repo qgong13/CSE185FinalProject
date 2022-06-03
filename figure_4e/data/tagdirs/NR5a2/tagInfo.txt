@@ -1,0 +1,33 @@
+name	Unique Positions	Total Tags
+genome	10581038	12320924.0
+fragmentLengthEstimate=122		
+peakSizeEstimate=134		
+tagsPerBP=0.004664		
+averageTagsPerPosition=1.164		
+medianTagsPerPosition=1		
+averageTagLength=36.000		
+gsizeEstimate=2641811157		
+averageFragmentGCcontent=-1.000		
+chr1	741362	858727.0
+chr2	797052	944203.0
+chr3	579235	671627.0
+chr4	677601	788313.0
+chr5	666075	773146.0
+chr6	605533	703838.0
+chr7	634466	736825.0
+chr8	571434	663895.0
+chr9	585768	690705.0
+chr10	535358	621593.0
+chr11	693652	808327.0
+chr12	460030	534193.0
+chr13	472055	547217.0
+chr14	445076	517386.0
+chr15	456137	531073.0
+chr16	370067	428641.0
+chr17	414214	481853.0
+chr18	365050	424321.0
+chr19	306849	357498.0
+chrX	189977	217542.0
+chrY	8934	11083.0
+chrM	5113	8918.0
+cmd=makeTagDirectory /home/q5gong/CSE185FinalProject/Figure_4e&f/data/tagdirs/NR5a2 /home/q5gong/CSE185FinalProject/Figure_4e&f/data/GSM846875_AlnNR5a2ChIP.txt		
